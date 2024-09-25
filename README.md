@@ -1,7 +1,9 @@
+🎯 About Me:
+
 - 👋 Hi, I’m @avvaruvaishnavi
 - 👀 I’m interested in ...Full Stack Development
 - 🌱 I’m currently learning ...Few Languages
-- 📫 How to reach me ...avvaruvaishnavi123@gmail.com
+- 📫 How to reach me ... avvaruvaishnavi123@gmail.com
 - 😄 Pronouns: ...she/her    
 
 <!---
