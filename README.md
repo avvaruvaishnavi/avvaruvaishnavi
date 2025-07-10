@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaishnavi AVNSR
 
-🎓 I'm a final-year Information Technology student passionate about AI, full-stack development, and solving real-world problems through code. With a CGPA of **9.0** and hands-on experience in building offline speech systems, GenAI tools, and interactive web apps, I bring both depth and curiosity to every project.
+🎓 I'm a recent graduate AI&ML student passionate about AI, full-stack development, and solving real-world problems through code. With a CGPA of **9.0** and hands-on experience in building offline speech systems, GenAI tools, and interactive web apps, I bring both depth and curiosity to every project.
 
 ---
 
